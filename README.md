@@ -11,8 +11,8 @@ This repository contains files used in a paper "Explicit description of viral ca
   - [2buk_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/2buk_zdock_iter/) PDB ID: 2BUK
   - [4v4m_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/4v4m_zdock_iter/) PDB ID: 4V4M
   - [6s44_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/6s44_zdock_iter/) PDB ID: 6S44
-  - [7odw_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/6odw_zdock_iter/) PDB ID: 6ODW
-  - [3r04_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/3r0r_zdock_iter/) PDB ID: 3R0R
+  - [7odw_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/7odw_zdock_iter/) PDB ID: 6ODW
+  - [3r0r_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/3r0r_zdock_iter/) PDB ID: 3R0R
   - [5zju_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/5zju_zdock_iter/) PDB ID: 5ZJU
   - [1stm_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/1stm_zdock_iter/) PDB ID: 1STM
   - [1vb4_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/1vb4_zdock_iter/) PDB ID: 1VB4
