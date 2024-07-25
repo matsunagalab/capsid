@@ -1,5 +1,6 @@
 This repository contains files used in a paper "Explicit description of viral capsid subunit shapes by expanding dihedrons" by Toyooka et al.
 
+- [grasshopper/](https://github.com/matsunagalab/capsid/tree/main/grasshopper) contains a GH file used in the 3D CAD Rhinoceros/Grasshopper.
 - [docking_axes_viper/](https://github.com/matsunagalab/capsid/tree/main/docking_axes_viper) contains notebooks for aligning the subunit coordinates with the VIPER coordinate system (Z-axis is the 2-fold axis, 3-fold axis is on the X-axis, and 5-fold axis is on the Y-axis)
 
 - [docking_pairwise/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise) contains input scipts and analysis notebooks for pairwise docking simulations for subunits
@@ -19,5 +20,4 @@ This repository contains files used in a paper "Explicit description of viral ca
   - [1m1c_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/1m1c_zdock_iter/) PDB ID: 1M1C
   - [6r7m_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/6r7m_zdock_iter/) PDB ID: 6R7M
   - [2m99_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/2m99_zdock_iter/) PDB ID: 2M99
-
 
