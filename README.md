@@ -21,3 +21,9 @@ This repository contains files used in a paper "Explicit description of viral ca
   - [6r7m_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/6r7m_zdock_iter/) PDB ID: 6R7M
   - [2m99_zdock_iter/](https://github.com/matsunagalab/capsid/tree/main/docking_pairwise/2m99_zdock_iter/) PDB ID: 2M99
 
+## Contact
+
+Yasuhiro Matsunaga
+
+ymatsunaga@mail.saitama-u.ac.jp
+
